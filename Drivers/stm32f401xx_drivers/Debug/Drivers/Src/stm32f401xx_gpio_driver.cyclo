@@ -1,0 +1,8 @@
+stm32f401xx_gpio_driver.c:14:6:GPIO_PClkControl	14
+stm32f401xx_gpio_driver.c:76:6:GPIO_Init	4
+stm32f401xx_gpio_driver.c:141:6:GPIO_DeInit	7
+stm32f401xx_gpio_driver.c:172:9:GPIO_ReadPin	1
+stm32f401xx_gpio_driver.c:182:10:GPIO_ReadPort	1
+stm32f401xx_gpio_driver.c:192:6:GPIO_WriteToPin	3
+stm32f401xx_gpio_driver.c:207:6:GPIO_WriteToPort	1
+stm32f401xx_gpio_driver.c:215:6:GPIO_TogglePin	1

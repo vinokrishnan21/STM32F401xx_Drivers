@@ -1,0 +1,8 @@
+../Drivers/Src/stm32f401xx_gpio_driver.c:14:6:GPIO_PClkControl	16	static
+../Drivers/Src/stm32f401xx_gpio_driver.c:76:6:GPIO_Init	32	static
+../Drivers/Src/stm32f401xx_gpio_driver.c:141:6:GPIO_DeInit	16	static
+../Drivers/Src/stm32f401xx_gpio_driver.c:172:9:GPIO_ReadPin	24	static
+../Drivers/Src/stm32f401xx_gpio_driver.c:182:10:GPIO_ReadPort	24	static
+../Drivers/Src/stm32f401xx_gpio_driver.c:192:6:GPIO_WriteToPin	16	static
+../Drivers/Src/stm32f401xx_gpio_driver.c:207:6:GPIO_WriteToPort	16	static
+../Drivers/Src/stm32f401xx_gpio_driver.c:215:6:GPIO_TogglePin	16	static
